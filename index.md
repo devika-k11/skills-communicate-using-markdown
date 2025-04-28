@@ -10,3 +10,8 @@
 ``` javascript
 var Ve = "Hey everyone!!";
 ```
+
+- [x] Study
+- [x] Study
+- [ ] Study
+- [ ] study
